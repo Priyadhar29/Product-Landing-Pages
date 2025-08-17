@@ -6,7 +6,6 @@ A fully responsive **Product Landing Page** built using **HTML5** and **CSS3** a
 
 ## 🚀 Live Demo
 [View Live Project]([https://<your-username>.github.io/Responsive-Web-Design/](https://priyadhar29.github.io/Product-Landing-Pages/))  
-*(Update the link after publishing to GitHub Pages)*
 
 ---
 
@@ -33,4 +32,27 @@ It demonstrates key concepts of **responsive design** using **Flexbox** and **me
 
 ---
 
-## 📂 Folder Structure
+## 📌 User Stories Completed (FreeCodeCamp Requirements)
+✔ Navigation bar with links using `.nav-link`  
+✔ Embedded video using `id="video"`  
+✔ Form with `id="form"` and email input (`id="email"`)  
+✔ Submit button with `id="submit"`  
+✔ Media query for mobile responsiveness  
+
+---
+
+## 🖼️ Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9b96d93f-5f3f-45c1-8d6e-b603fe00b349" />
+
+---
+
+## 🔗 Certification
+Part of the **[FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/)**.
+
+---
+
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
+
+## 
+📂 Folder Struct
