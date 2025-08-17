@@ -5,7 +5,7 @@ A fully responsive **Product Landing Page** built using **HTML5** and **CSS3** a
 ---
 
 ## 🚀 Live Demo
-[View Live Project](https://<your-username>.github.io/Responsive-Web-Design/)  
+[View Live Project]([https://<your-username>.github.io/Responsive-Web-Design/](https://priyadhar29.github.io/Product-Landing-Pages/))  
 *(Update the link after publishing to GitHub Pages)*
 
 ---
