@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Landing Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- HEADER -->
+  <header id="header">
+    <img id="header-img" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo">
+    <nav id="nav-bar">
+      <a class="nav-link" href="#features">Features</a>
+      <a class="nav-link" href="#video-section">How It Works</a>
+      <a class="nav-link" href="#pricing">Pricing</a>
+    </nav>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main>
+    <!-- FEATURES SECTION -->
+    <section id="features">
+      <h2>Awesome Features</h2>
+      <p>Our product is designed to make your life easier. Enjoy speed, reliability, and security with every feature.</p>
+    </section>
+
+    <!-- VIDEO SECTION -->
+    <section id="video-section">
+      <h2>Watch How It Works</h2>
+      <iframe id="video" width="560" height="315"
+        src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+        title="Product Video" frameborder="0" allowfullscreen>
+      </iframe>
+    </section>
+
+    <!-- PRICING SECTION -->
+    <section id="pricing">
+      <h2>Affordable Pricing</h2>
+      <p>Choose a plan that works best for you!</p>
+      <ul>
+        <li>Basic - $9/month</li>
+        <li>Standard - $19/month</li>
+        <li>Premium - $29/month</li>
+      </ul>
+    </section>
+
+    <!-- FORM SECTION -->
+    <section id="newsletter">
+      <h2>Stay Updated!</h2>
+      <form id="form" action="https://www.freecodecamp.com/email-submit" method="post">
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <input type="submit" id="submit" value="Subscribe">
+      </form>
+    </section>
+  </main>
+</body>
+</html>
