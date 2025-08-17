@@ -54,5 +54,3 @@ Part of the **[FreeCodeCamp Responsive Web Design Certification](https://www.fre
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
 
-## 
-📂 Folder Struct
